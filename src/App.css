@@ -1,15 +1,11 @@
-.App {
-  font-family: sans-serif;
+body {
+  color: palevioletred;
+  margin: 0.5em 1em;
+  padding: 0.25em 1em;
 }
 
-.field {
-  display: flex;
-  flex-flow: column;
-  margin: 12px 0;
-}
-
-.field label {
-  margin: 4px 0;
-  font-size: 14px;
-  color: #777;
+.controls-container {
+  color: palevioletred;
+  margin: 0.5em 1em;
+  padding: 0.25em 1em;
 }
